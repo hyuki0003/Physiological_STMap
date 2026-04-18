@@ -1,4 +1,4 @@
-# Physiological STmap
+# Physiological STmap (PSTmap)
 
 > Official implementation of **"생리학적 혈류 방향 기반 시공간 특징맵과 교차 주의 집중을 이용한 비접촉 원격 심박수 추정"**
 > (*Remote Heart Rate Estimation with Blood Flow-Direction-Aware Spatio-Temporal Maps and Cross-Color Space Attention*) — 2025 IEIE Summer Conference.
