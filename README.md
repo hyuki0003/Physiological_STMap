@@ -1,5 +1,4 @@
 # Physiological_STMap
-(BMVC_MTSTmap)
 
 This repository contains the codebase for generating Spatial-Temporal Maps (STmaps) from facial videos and training neural networks for remote photoplethysmography (rPPG) and physiological signal estimation.
 
